@@ -2,8 +2,6 @@
 
 A complete, modern e-commerce web application for sports apparel and gear, built from the ground up with a Node.js backend and a Next.js frontend.
 
-**Live Demo:** [Link to your deployed site] *(You can add this later when you deploy)*
-
 ---
 
 ## 📸 Screenshots
