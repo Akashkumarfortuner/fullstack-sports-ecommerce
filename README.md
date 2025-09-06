@@ -8,7 +8,6 @@ A complete, modern e-commerce web application for sports apparel and gear, built
 
 ## 📸 Screenshots
 
-*Note: The filenames below must exactly match the files in your `.github/assets` folder.*
 
 ### Homepage
 ![FitFlex homepage](.github/assets/homepage.jpg)
