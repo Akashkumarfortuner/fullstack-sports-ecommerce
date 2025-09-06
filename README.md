@@ -7,14 +7,15 @@ A complete, modern e-commerce web application for sports apparel and gear, built
 ## 📸 Screenshots
 
 
+### Login Page
+![FitFlex Login Page](.github/assets/login.png)
+
 ### Homepage
 ![FitFlex homepage](.github/assets/homepage.png)
 
 ### Product Listing & Trending
 ![FitFlex products](.github/assets/products.png)
 
-### Login Page
-![FitFlex Login Page](.github/assets/login.png)
 
 ---
 
